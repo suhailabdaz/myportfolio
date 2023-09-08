@@ -616,7 +616,7 @@ section {
   position: relative;
   overflow: hidden;
   z-index: 1;
-  background: rgba(69, 80, 91, 0.8);
+  background: rgb(255, 255, 255);
 }
 
 .portfolio .portfolio-wrap::before {
@@ -1206,4 +1206,8 @@ section {
 
 #footer .credits {
   font-size: 13px;
+}
+.img-thu{
+  display: flex;
+  justify-content: center;
 }
